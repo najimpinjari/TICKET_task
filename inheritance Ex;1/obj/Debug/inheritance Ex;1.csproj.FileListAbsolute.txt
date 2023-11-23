@@ -1,0 +1,7 @@
+E:\C# project\inheritance Ex;1\bin\Debug\inheritance Ex;1.exe.config
+E:\C# project\inheritance Ex;1\bin\Debug\inheritance Ex;1.exe
+E:\C# project\inheritance Ex;1\bin\Debug\inheritance Ex;1.pdb
+E:\C# project\inheritance Ex;1\obj\Debug\inheritance Ex;1.csproj.AssemblyReference.cache
+E:\C# project\inheritance Ex;1\obj\Debug\inheritance Ex;1.csproj.CoreCompileInputs.cache
+E:\C# project\inheritance Ex;1\obj\Debug\inheritance Ex;1.exe
+E:\C# project\inheritance Ex;1\obj\Debug\inheritance Ex;1.pdb
